@@ -4,17 +4,17 @@ body{
     color: black; /* this is the font color*/
 }
 
-/* create styles for the h1 tag */
 
-/* Sample - pick your own colors and settings. Make sure to include the ; at the end of the line */
+/* create styles for h1 */
 
 h1{
     color: rgb(0, 0, 0);
     font-family: 'Times New Roman', Times, serif;
-    font-size: larger;
+    font-size: 300%;
     text-align: center;
 }
 
+/* create styles for p */
 
 p {
     color: rgb(0, 0, 0);
@@ -23,22 +23,31 @@ p {
     text-align: center;
 }
 
+/* create styles for h2 */
+
 h2 {
     color: rgb(0, 0, 0);
     font-family: 'Times New Roman', Times, serif;
-    font-size: larger;
+    font-size: 200%;
     text-align: center;
 }
 
+/* create styles for h3 */
 
-/* create styles for the h3 tag */
+h3 {
+    color: rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 200%;
+    text-align: center;
+}
 
-
-/* create styles for the p tag */
+/* create style for image */
 
 img{
     width: 15%;
     display: block;
     margin: 10px auto; 
-    /* this set of 3 commands centers. 10px is spacing top and bottom, auto is left and right*/
+    background:black;
+    padding: 15px
+    /* add outline to image with background and padding*/
 }
