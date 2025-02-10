@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: ivory;
+    color: rgb(64, 3, 3);
+}
+
+img {
+    width: 30%;
+    height: auto;
+    /* I set to auto so that I don't skew the image.*/
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    background: ivory;
+    color: rgb(72 238 148);
+}
+
+code{
+    background:green;
+    padding:7px;
+    
+}
