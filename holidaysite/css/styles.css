@@ -1,6 +1,7 @@
 body {
     background-color: rgb(200, 0, 0);
-    background-image: url("../images/background.jpg");
+    background-image: url("../images/background.jpg"); 
+    /* Little festive background thing, not sure if it counts as using an image. */
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
