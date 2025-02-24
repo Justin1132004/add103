@@ -1,0 +1,42 @@
+body {
+    background-color: black;
+    font-size: larger;
+    color: antiquewhite;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 2;
+}
+
+nav {
+    text-align: center;
+}
+
+nav a, .top {
+    text-decoration: none;
+    background-color: blue;
+    border: 2px solid beige;
+    padding: 10px 20px;
+    margin-left: 15px;
+    color: beige;
+    border-radius: 20px;
+}
+
+a{
+    color:lightblue;
+    text-decoration: none;
+    margin-left: 100px;
+}
+
+nav a:hover, .top:hover{
+    color:darkblue;
+    background: lightblue;
+    text-decoration:underline
+}
+
+div {
+    min-height: 250px;
+}
+
+h1, h2 {
+    text-align: center;
+    color: ivory;
+}

@@ -1,0 +1,46 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background: beige;
+    color: rgb(64, 3, 3);
+}
+
+img {
+    width: 30%;
+    height: auto;
+    /* I set to auto so that I don't skew the image.*/
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(41, 134, 155);
+    text-align: center;
+}
+
+code{
+    background:green;
+    padding:7px;
+    
+}
+
+ol {
+    list-style-type:lower-roman;
+    color: darkslategrey
+
+}
+
+summary {
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(41, 155, 102);
+    font-size:xx-large
+}
+
+dt{
+    font-weight: bold;
+    color:darkmagenta
+}
+
+dd{
+    margin-left: 20px;
+    font-family:'Times New Roman', Times, serif
+}
