@@ -1,0 +1,70 @@
+h1{
+    text-align: center;
+    font-size: 300%;
+    color:black
+}
+
+h2 {
+    text-align: center;
+    font-size: 300%;
+    color: black
+}
+
+body{
+    background-color:lightgreen;
+    font-family: 'Times New Roman', Times, serif
+}
+
+p1{
+    font-family:'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+p2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    padding: 25px
+}
+
+
+nav {
+    text-align: center;
+}
+
+img{
+    margin: 10px, auto
+}
+
+#float-right img{
+    float:right
+}
+
+#float-left img {
+    float: left
+}
+
+nav a,
+.top {
+    text-align: center;
+    text-decoration: none;
+    background-color: green;
+    border: 2px solid rgb(0, 0, 0);
+    padding: 10px 30px;
+    margin: 15px;
+    color: beige;
+    border-radius: 20px;
+    font-size: larger;
+}
+
+nav a:hover, .top:hover {
+    color: darkblue;
+    background: lime;
+    text-decoration: underline
+}
+
+img{
+    float: left;
+    padding: 25px;
+
+
+}
