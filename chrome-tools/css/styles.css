@@ -1,0 +1,49 @@
+body {
+    background: #00975d;
+    font-family: 'Times New Roman', Times, serif;
+    color: lightgreen
+}
+
+h1 {
+    text-align: center;
+    font-size: xxx-large;
+    color: lightgreen;
+    font-family: 'Times New Roman', Times, serif
+}
+
+h2,
+h3 {
+    margin: 25px
+}
+
+p {
+    font-size: large
+}
+
+img {
+    display: block;
+    width: 50%;
+    height: auto;
+    padding: 10px;
+    margin: auto
+}
+
+.container {
+    max-width: 1000px
+}
+
+ul,
+ol,
+li {
+    list-style-type: square;
+    list-style-position: outside;
+}
+
+figcaption {
+    text-align: center
+}
+
+dt,
+dd {
+    color: limegreen
+}
