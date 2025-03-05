@@ -33,6 +33,7 @@ nav {
 
 img{
     margin: 10px, auto
+
 }
 
 #float-right img{
@@ -43,9 +44,17 @@ img{
     float: left
 }
 
+#center img {
+    display: block;
+    height: 500px; 
+    width: auto;
+    margin: 10px, auto;
+    padding: 10px
+}
+
 nav a,
 .top {
-    text-align: center;
+    text-align: center; 
     text-decoration: none;
     background-color: green;
     border: 2px solid rgb(0, 0, 0);
