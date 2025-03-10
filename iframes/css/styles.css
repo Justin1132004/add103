@@ -1,0 +1,21 @@
+body {
+    background: black;
+}
+
+h1 {
+    font-size: xxx-large;
+    color: white
+}
+
+h2 {
+    font-size: xx-large;
+    color: white;
+    text-align: center
+}
+
+iframe {
+    display: block;
+    width: 1120px;
+    height: 630px;
+    margin: 20px auto;
+}
