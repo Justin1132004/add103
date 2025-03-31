@@ -1,0 +1,51 @@
+:root {
+    --dark_primary: #00796B;
+    --light_primary: #B2DFDB;
+    --primary_color: #009688;
+    --light_text: #ffffff;
+    --accent_color: #4CAF50;
+    --primary_text: #212121;
+    --secondary_text: #757575;
+    --divider: #BDBDBD;
+    --main_text: "Roboto", sans-serif;
+    --header_text: "Roboto Mono", monospace;
+}
+
+body{
+    background-color: var(--light_primary);
+    color:var(--primary_text);
+    font-family:var(--main_text);
+}
+
+header,footer{
+    background-color: var(--dark_primary);
+    text-align: center;
+    padding: 20px;
+    font-family: var(--header_text);
+    color: var(--light_text);
+}
+
+h1{
+    color: var(--light_text);
+    font-family: var(--header_text);
+}
+
+.container {
+    width: 80%;
+    background: var(--divider);
+    border: 2px solid var(--primary_color);
+    margin: 20px auto;
+    padding: 0px;
+}
+
+a {
+    text-decoration: none;
+    color: var(--dark_primary);
+    font-weight: bold;  
+    margin: 20px 50px;
+}
+
+a:hover {
+    color: var(--accent_color);
+    text-decoration: underline;
+}
