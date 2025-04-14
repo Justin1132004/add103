@@ -172,7 +172,24 @@ footer {
 h1 {
     color: var(--light_text);
     font-family: var(--header_text);
-    margin: 20px
+    margin: 20px;
+    padding:20px;
+}
+
+h2 {
+    color: var(--primary_text);
+    font-family: var(--header_text);
+    margin: 10px;
+    font-size: x-large;
+    text-align: center;
+}
+
+h3 {
+    color: var(--primary_text);
+    font-family: var(--header_text);
+    margin: 10px;
+    font-size: x-large;
+    text-align: center;
 }
 
 img {
@@ -185,8 +202,16 @@ img {
 
 p {
     font-family: 'Times New Roman', Times, serif;
-    font-size: x-large;
+    font-size: larger;
     text-align: center;
+    color: var(--primary_text);
+}
+
+figcaption {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    text-align: center;
+    color: var(--primary_text);
 }
 
 #center-text p {
@@ -196,6 +221,7 @@ p {
     float: left;
     width: 60%;
     height: auto;
+    color: var(--primary_text);
 }
 
 #float-right img {
@@ -243,7 +269,7 @@ a {
     text-decoration: none;
     color: var(--light_primary);
     font-weight: bold;
-    margin: 20px 50px;
+    margin: 20px 30px;
 }
 
 a:hover {
