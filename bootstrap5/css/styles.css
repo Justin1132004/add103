@@ -1,0 +1,21 @@
+.container {
+    width: 90%;
+    margin: 10px auto;
+}
+
+.container-fluid{
+    width: 90%;
+    margin: 10px auto;
+}
+
+.h1 {
+    text-align: center;
+}
+
+.display-1{
+    text-align:center;
+}
+
+p{
+    text-align:center;
+}
