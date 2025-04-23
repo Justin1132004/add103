@@ -19,3 +19,12 @@
 p{
     text-align:center;
 }
+
+a.nav-link.dropdown-toggle {
+    padding: 10px 30px;
+    margin: 10px auto;
+    width: 30px auto;
+    height: auto;
+    text-align: center;
+    font-size: xx-large;
+}
