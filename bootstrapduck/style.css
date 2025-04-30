@@ -1,0 +1,50 @@
+.card {
+  background-color: #f5f5dc;
+  color: #222;
+  border: 3px dashed darkgreen;
+}
+
+.card-body {
+  color: orange;
+  font-size: 60px;
+}
+
+.container {
+  background: pink;
+}
+
+h1 {
+  background: green;
+}
+
+.img-fluid {
+  width: 50%;
+  height: auto;
+}
+
+.col-md-6 {
+  background: orange;
+}
+
+.testclass {
+  background: blue
+}
+
+.mycard {
+  background: green
+}
+
+.bigimg {
+  width: 70%;
+  height: auto;
+}
+
+.txtcolorclass {
+  color: darkgreen;
+  font-size: larger
+}
+
+.cardbackground {
+  background: purple;
+  padding: 30px
+}
